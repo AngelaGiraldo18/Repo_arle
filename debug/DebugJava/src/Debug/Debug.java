@@ -1,0 +1,21 @@
+package Debug;
+
+import javax.swing.JOptionPane;
+
+public class Debug {
+
+	public static void main(String[] args) throws ArithmeticException {
+		try {
+			int dividendoStr = Integer.parseInt( JOptionPane.showInputDialog("Ingrese el dividendo:"));
+			
+			int divisorStr = Integer.parseInt( JOptionPane.showInputDialog("Ingrese el divisor"));
+			
+			int resultado = dividendoStr / divisorStr;
+			JOptionPane.showMessageDialog(null, "El resultado de la división es: "+resultado);
+		} catch (Exception e) {
+			JOptionPane.showMessageDialog(null, "Error: Ingrese un número válido.");
+		}
+
+	}
+
+}

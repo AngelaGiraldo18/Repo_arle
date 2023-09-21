@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+C:\Users\57313\OneDrive\Documentos\arle\debug\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3940653263.index
+3379498615.index

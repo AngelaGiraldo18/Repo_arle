@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1690576787788" clover="3.2.0">
+  <project timestamp="1690576787788" name="All files">
+    <metrics statements="24" coveredstatements="23" conditionals="0" coveredconditionals="0" methods="12" coveredmethods="11" elements="36" coveredelements="34" complexity="0" loc="24" ncloc="24" packages="2" files="8" classes="8"/>
+    <package name="funciones jest">
+      <metrics statements="17" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="10"/>
+      <file name="dividir.js" path="C:\Users\57313\OneDrive\Documentos\arle\jest\funciones jest\dividir.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+      <file name="math.js" path="C:\Users\57313\OneDrive\Documentos\arle\jest\funciones jest\math.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+      </file>
+      <file name="multiplicacion.js" path="C:\Users\57313\OneDrive\Documentos\arle\jest\funciones jest\multiplicacion.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+      <file name="numeroPar.js" path="C:\Users\57313\OneDrive\Documentos\arle\jest\funciones jest\numeroPar.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+      <file name="resta.js" path="C:\Users\57313\OneDrive\Documentos\arle\jest\funciones jest\resta.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+      <file name="saludo.js" path="C:\Users\57313\OneDrive\Documentos\arle\jest\funciones jest\saludo.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+      <file name="suma.js" path="C:\Users\57313\OneDrive\Documentos\arle\jest\funciones jest\suma.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src">
+      <metrics statements="7" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="app.js" path="C:\Users\57313\OneDrive\Documentos\arle\jest\src\app.js">
+        <metrics statements="7" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
